@@ -1,3 +1,3 @@
-var name = " Daniel  ";
-
-console.log(message);
+var name = "Daniel";
+var nameLength = name.length;
+console.log(nameLength);
