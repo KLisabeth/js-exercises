@@ -7,6 +7,8 @@
 */
 
 var numbers = [1, 2, 3]; // Don't change this array literal declaration
+numbers [3] = 4; 
+numbers [0] = 1;  // did not have to change an array because we already have 1 in a firs value
 
 /* 
   DO NOT EDIT BELOW THIS LINE
